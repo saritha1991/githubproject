@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8443" started-at="2018-07-18T03:31:07Z" finished-at="2018-07-18T03:31:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8443" started-at="2018-07-18T03:31:07Z" finished-at="2018-07-18T03:31:15Z">
+      <class name="Com.Testcases.TC01_Login">
+        <test-method status="PASS" signature="validatelogin_panel()[pri:0, instance:Com.Testcases.TC01_Login@3e6fa38a]" name="validatelogin_panel" duration-ms="8374" started-at="2018-07-18T03:31:07Z" finished-at="2018-07-18T03:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin_panel -->
+      </class> <!-- Com.Testcases.TC01_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
